@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **GenerativeAi and Mlops**
 
-- 📫 How to reach me **shabaz.h000pm@gmail.com**
+- 📫 How to reach me **shahbazfaqir632@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
