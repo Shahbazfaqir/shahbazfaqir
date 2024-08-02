@@ -6,7 +6,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shahbazfaqir&label=Profile%20views&color=0e75b6&style=flat" alt="shahbazfaqir" /> </p>
 
 - 🌱 I’m currently learning **GenerativeAi and Mlops**
-- 👨‍💻 I’m currently learning **open source contribution**
+- 👨‍💻 I’m currently learning **Open Source Contribution**
 
 - 📫 How to reach me **shahbazfaqir632@gmail.com**
 
